@@ -1,0 +1,33 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-image: url("https://img.freepik.com/premium-vector/poker-table-background-green-color_47243-1067.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    color: rgb(255, 191, 29);
+}
+
+.message-el{
+    font-style: italic;
+}
+
+button{
+    background-color: goldenrod;
+    font-weight: bold;
+    color: rgb(19, 19, 19);
+    padding: 0.4rem 1.5rem 0.4rem 1.5rem;
+    border: none;
+    border-radius: 2px;
+    width: 150px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+button:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
